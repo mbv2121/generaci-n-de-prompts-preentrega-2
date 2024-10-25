@@ -1,6 +1,6 @@
 # generaci-n-de-prompts-entrega final
 
-Proyecto Final  - "Mosaico"
+                                                                  Proyecto Final  - "Mosaico"
 
 Resumen: Creación de un documento sobre un perfil público de un invitado a canales de streaming, radios, redes sociales y demás programas de entrevistas.
 1.- Presentación del problema a abordar
