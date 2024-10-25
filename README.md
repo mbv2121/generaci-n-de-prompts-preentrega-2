@@ -44,18 +44,15 @@ Finalmente, una vez que la ficha de la persona con perfil público está complet
 2.6. Herramientas y Tecnologías
     •	Python
     •	OpenAI GPT-3.5-turbo API
-    •	google-api-python-client
-    •	requests
-    •	beautifulsoup4
-    •	newspaper3k
-    
 3. Justificación de la viabilidad del proyecto.
 
 Este sistema es esencial para que los anfitriones puedan acceder instantáneamente a perfiles personalizados y precisos de los huéspedes mediante la automatización de la recopilación de datos de múltiples fuentes. Garantiza información oportuna y estructurada sobre antecedentes personales, carrera profesional y apariciones recientes, todo ello en español. Al ahorrar tiempo y eliminar la investigación manual, mejora la calidad de la entrevista, haciéndola más atractiva y relevante para la audiencia. El hecho de que la herramienta se centre en América Latina añade especificidad regional, atendiendo a los matices culturales y lingüísticos del contenido.
 
 4.- Implementación: En ProyectoFinal.ipynb
 
-5.- Resultados: ¿Qué resultados brinda la implementación? ¿Logra llegar a la solución esperada? Justifica tu respuesta.
+5.- Resultados: El resultado arrojado es el esperado dando información requerida junto con la estructura planteada. La información es veraz pero desactualizada por lo que se requiere de API como la de Twitter y Youtube Data API v3 para poder recabar información actualizada.
 
-6.- Conclusiones: desarrolla las conclusiones a las que has llegado al desarrollar tu proyecto. Repasa los puntos más relevantes, indica si se han logrado los objetivos propuestos y por qué.
+6.- Conclusiones: En conclusión, el proyecto dió los resultados esperados al probar la API de OpenAI y la utilización de Anaconda. Por otro lado, los puntos a mejorar es la inclusión de otras herramientas como WebScraping para recuperar información que se encuentre en Internet e utlizar otras APIs como la de Twitter y YouTube Data API v3 para dar información más actualizada del entrevistado.
+
+En términos de modelo de negoció, plantearlo como un freemium con un uso limitado de búsquedas semanales y una versión premium sin límites de búsqueda sería lo ideal para este proyecto. El costo de la utilización de las ya mencionadas APIs junto con de tokenización pueden ser amortizados con las cuentas premium con un costo de 5 USD mensuales por cuenta. Para llevar el proyecto a un nivel comercial se requerrirá un desarrollo de una interfaz amigable. 
 
