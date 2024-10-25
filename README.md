@@ -1,8 +1,10 @@
 # generaci-n-de-prompts-entrega final
 
-                                                                  Proyecto Final  - "Mosaico"
+                                                   Proyecto Final  - "Mosaico"
 
 Resumen: Creación de un documento sobre un perfil público de un invitado a canales de streaming, radios, redes sociales y demás programas de entrevistas.
+
+
 1.- Presentación del problema a abordar
 
 Cada año, millones de canales se crean en diversas plataformas de streaming, reflejando un crecimiento exponencial. En Argentina, estos canales atraen audiencias diarias de hasta 100.000 personas. Karla Agis, líder de Cultura y Tendencias para Canadá y Latinoamérica de YouTube, destaca que en Argentina casi 7 de cada 10 personas consumen videos en YouTube en diversos formatos (largos, shorts, en directo y podcasts). Esta tendencia de consumo de video online “es un claro reflejo de la cultura digital actual”.
