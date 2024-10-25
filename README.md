@@ -44,7 +44,6 @@ Finalmente, una vez que la ficha de la persona con perfil público está complet
 2.6. Herramientas y Tecnologías
     •	Python
     •	OpenAI GPT-3.5-turbo API
-    •	Twitter API
     •	google-api-python-client
     •	requests
     •	beautifulsoup4
